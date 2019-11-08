@@ -5,7 +5,9 @@ export  function updateProduct(newProduct){
         type:UPDATE_PRODUCT,
         payload:newProduct 
     }
-   
+ 
+
+ asd  
 }
 
  
